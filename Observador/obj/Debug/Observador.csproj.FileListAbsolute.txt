@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\bin\Debug\Observador.exe.config
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\bin\Debug\Observador.exe
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\bin\Debug\Observador.pdb
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\obj\Debug\Observador.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\obj\Debug\Observador.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\obj\Debug\Observador.exe
+C:\BOT\Cursos\Patrones\Observador\Observador\Observador\obj\Debug\Observador.pdb
